@@ -13,7 +13,7 @@ function AboutCard() {
             <br />I am pre final year student in VIT Bhopal.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, some other hobbies that I love to do!
           </p>
           <ul>
             <li className="about-activity">
