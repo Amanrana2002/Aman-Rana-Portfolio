@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering. I enjoy facing challenges and to learn the skills and techniques used in the computer science field and become a resourceful asset for this industry.
+            I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of Computer Engineering. I enjoy facing challenges and to learn the skills and techniques used in the computer science field and become a resourceful asset for this industry.
               <br />
               <br />I am fluent in classics like
               <i>
@@ -37,7 +37,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I also very passionate for learning new Technologies
+              Whenever possible, I also very passionate for learning New Technologies
               like <b className="purple">Node.js</b> and
               <i>
                 <b className="purple">
