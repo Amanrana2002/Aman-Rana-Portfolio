@@ -6,9 +6,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-image: linear-gradient(
     to bottom left,
-    #3a0ca3,
-    #7209b7,
-    #f72585
+    #08001d,
+    #1c064f,
+    #350456,
+    #41041f
 
   );
 }

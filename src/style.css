@@ -1,9 +1,10 @@
 html {
   --section-background-color: linear-gradient(
     to bottom left,
-    #3a0ca3,
-    #7209b7,
-    #f72585
+    #08001d,
+    #1c064f,
+    #350456,
+    #41041f
 
   );
 
@@ -14,7 +15,7 @@ html {
     
   );
 
-  --imp-text-color: #c770f0;
+  --imp-text-color: #f405a0;
 }
 
 .purple {
@@ -35,7 +36,7 @@ button:focus {
   width: 100%;
   height: 100%;
   z-index: 999999;
-  background-color: #0c0513;
+  background-color: #120924;
   background-image: url(./Assets/pre.svg);
   background-repeat: no-repeat;
   background-position: center;
@@ -65,13 +66,13 @@ button:focus {
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: rgba(178, 121, 216, 0.959);
+  background: #f405a0;
   border-radius: 12px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(222, 130, 235, 0.911);
+  background: #f405a0;
   border-radius: 12px;
 }
 
@@ -100,7 +101,7 @@ button:focus {
 
 .navbar-toggler span {
   display: block !important;
-  background-color: #be50f4 !important;
+  background-color: #f405a0 !important;
   height: 4px !important;
   width: 27px !important;
   margin-top: 5px !important;
@@ -197,7 +198,7 @@ button:focus {
   height: 5px;
   width: 0;
   border-radius: 16px;
-  background: #c95bf5;
+  background: #f405a0;
   bottom: 1px;
   left: 0;
   z-index: -1;
@@ -284,12 +285,12 @@ button:focus {
 }
 
 .main-name {
-  color: #f72585;
+  color: #f405a0;
 }
 
 .Typewriter__wrapper {
   font-size: 2.2em !important;
-  color: #f72585 !important;
+  color: #f405a0 !important;
   font-weight: 600 !important;
 }
 .Typewriter__cursor {
@@ -374,7 +375,7 @@ button:focus {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background: #68187a;
+  background: #f405a0;
   transition: 0.5s;
   transform: scale(0.9);
   z-index: -1;
@@ -382,13 +383,13 @@ button:focus {
 
 .home-social-icons:hover::before {
   transform: scale(1.1);
-  box-shadow: 0 0 15px #801f95;
+  box-shadow: 0 0 15px ;
 }
 
 .home-social-icons:hover {
-  color: #87209e;
-  box-shadow: 0 0 5px #87209e;
-  text-shadow: 0 0 2px #87209e;
+  color: #f405a0;
+  box-shadow: 0 0 5px #f405a0;
+  text-shadow: 0 0 2px #f405a0;
 }
 
 .social-icons {
@@ -398,7 +399,7 @@ button:focus {
 }
 
 .icon-colour {
-  color: #700c86 !important;
+  color: #f405a0 !important;
 }
 
 /* --------- */
@@ -442,7 +443,7 @@ button:focus {
 }
 
 .blockquote-footer {
-  color: #a588c0 !important;
+  color: #f405a0 !important;
 }
 /* --------- */
 /* Projects */
@@ -527,7 +528,7 @@ button:focus {
 
 .btn-primary:hover {
   color: #fff !important;
-  background-color: #6d20c5d7 !important;
+  background-color: #283ddb !important;
   border-color: #6d20c5d7 !important;
 }
 .btn:focus {
@@ -705,8 +706,8 @@ button:focus {
 
 .like-btn:hover {
   transform: translateY(-2px) !important;
-  background-color: #a24dd386 !important;
-  border-color: #a24dd386 !important;
+  background-color: #f405a0 !important;
+  border-color: #f405a0 !important;
 }
 
 .animate-like {
